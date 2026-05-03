@@ -1,0 +1,12 @@
+streamlit>=1.32.0
+plotly>=5.18.0
+numpy>=1.26.0
+pandas>=2.2.0
+skyfield>=1.46
+folium>=0.15.0
+streamlit-folium>=0.18.0
+requests>=2.31.0
+
+# Optional — real SDR hardware
+# pip install pyrtlsdr      # RTL-SDR (~$30 dongle)
+# pip install SoapySDR      # HackRF, USRP, LimeSDR
